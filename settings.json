@@ -1,8 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\Users\\jwqhp\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
-    "C_Cpp.default.compilerPath": "c:\\Users\\jwqhp\\.vscode\\c_cpp_properties.json.txt",
-    "security.workspace.trust.untrustedFiles": "open",
-    "debug.onTaskErrors": "debugAnyway",
-    "git.autofetch": true,
-    "git.confirmSync": false
-}
